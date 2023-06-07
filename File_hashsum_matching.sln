@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "File_hashsum_matching", "PythonApplication1\File_hashsum_matching.pyproj", "{47CFBCA0-AAE8-4860-BC4F-BD18E97CB428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47CFBCA0-AAE8-4860-BC4F-BD18E97CB428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CFBCA0-AAE8-4860-BC4F-BD18E97CB428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {247E604C-CF0B-48CE-8702-E312160A7AB0}
+	EndGlobalSection
+EndGlobal
